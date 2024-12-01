@@ -1,1 +1,3 @@
 *.pyc
+2024/day1/part1/Cargo.lock
+*target*
